@@ -24,12 +24,12 @@ Implemented a Programmable Calculator which lets the users specify sequences of 
 
 ## An Example input file
 
-x = 3.
-y = 2.
-w = 2.
-z = x ** y.
-w = w - 1.
-x = x + 1.
-w ? 4.
-x = x - 1.
+x = 3.  
+y = 2.  
+w = 2.  
+z = x ** y.  
+w = w - 1.  
+x = x + 1.  
+w ? 4.  
+x = x - 1.  
   
