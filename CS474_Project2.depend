@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1543716118 source:d:\cs474\cs474_project2\progcounterimplement.cpp
+	"ProgCounterImplement.h"
+	<iostream>
+	<sstream>
+	<iterator>
+	<cmath>
+
+1543716313 d:\cs474\cs474_project2\progcounterimplement.h
+	"ProgCounterInterface.h"
+
+1543715567 d:\cs474\cs474_project2\progcounterinterface.h
+	<string>
+	<vector>
+
+1543718759 source:d:\cs474\cs474_project2\main.cpp
+	"Command.h"
+	"ProgCalculatorImplement.h"
+	<iostream>
+	<fstream>
+
+1543616508 d:\cs474\cs474_project2\command.h
+
+1543716180 source:d:\cs474\cs474_project2\progcounterinterface.cpp
+	"ProgCounterInterface.h"
+
+1543716964 source:d:\cs474\cs474_project2\progcalculatorabstract.cpp
+	"ProgCalculatorAbstract.h"
+
+1543716694 d:\cs474\cs474_project2\progcalculatorabstract.h
+	<string>
+	<vector>
+
+1543717090 source:d:\cs474\cs474_project2\progcalculatorimplement.cpp
+	"ProgCalculatorImplement.h"
+	<iostream>
+	<sstream>
+	<iterator>
+	<cmath>
+
+1543717171 d:\cs474\cs474_project2\progcalculatorimplement.h
+	"ProgCalculatorAbstract.h"
+
